@@ -15,6 +15,6 @@
      + functional:
         > 1.@bbr registration BOLD to T1w \
         > 2.motion correction @mcflirt FSL 5.0.9 \
-        > 3.slice timing \
+        > 3.slice timing: first referent(--ignore) \
         > 4.Normalization to MNI152NLin2009cAsym(1mm) standard space, surface resampling to fsnative 
    
